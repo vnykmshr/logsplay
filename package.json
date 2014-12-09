@@ -1,0 +1,16 @@
+{
+  "name": "logsplay",
+  "version": "1.0.0",
+  "description": "Command line utility to parse server log files",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "underscore.string": "^2.4.0"
+  },
+  "author": "Vinayak Mishra",
+  "license": "MIT"
+}
